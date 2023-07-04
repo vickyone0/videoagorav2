@@ -7,9 +7,8 @@ import 'package:agora_rtc_engine/rtc_remote_view.dart' as RtcRemoteView;
 import 'package:flutter/material.dart';
 //import 'package:permission_handler_web/permission_handler_web.dart';
 
-const appId = "7ada16ad85cd4356aec9a63a128adc04";
-const token =
-    "007eJxTYPj3XtK3W062/vbt2jO2+9fLfU331z5RFGDnoysdfuV8wzkFBvPElERDs8QUC9PkFBNjU7PE1GTLRDPjREMji8SUZAOTZbvnpzQEMjKUHNjJyMgAgSA+C0NJanEJAwMAmbshHA==";
+const appId = "#####";
+const token = "#####";
 const channel = "test";
 
 void main() => runApp(MaterialApp(home: MyApp()));
